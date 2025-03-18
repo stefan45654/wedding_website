@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/stefan/Documents/00_projects/Hochzeit/quickstart",
+	"sourceRoot": "/home/stefan/Documents/00_projects/Hochzeit/wedding_website",
 	"sources": [
 		"ananke/css/main.css"
 	],
